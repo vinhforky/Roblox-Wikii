@@ -1,3 +1,7 @@
+.body {
+  margin: auto;
+  max-width: 1024px;
+}
 .links {
   display: flex;
   justify-content: center;
@@ -33,6 +37,9 @@ body {
 .cards-layout {
   display: flex;
   gap: 50px;
+  justify-content: center;
+  margin: 32px;
+
 }
 
 .column {
